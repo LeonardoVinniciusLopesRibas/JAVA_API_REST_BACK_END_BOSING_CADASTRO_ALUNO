@@ -1,0 +1,15 @@
+projeto\unipar\exemplo\rest\aluno\dto\AlunoFindAllResponse.class
+projeto\unipar\exemplo\rest\aluno\dto\AlunoRequest.class
+projeto\unipar\exemplo\rest\aluno\exception\ValidacaoException.class
+projeto\unipar\exemplo\rest\aluno\exception\ObjectNotFoundException.class
+projeto\unipar\exemplo\rest\aluno\providers\NamingExceptionProvider.class
+projeto\unipar\exemplo\rest\aluno\ExemploRestAluno.class
+projeto\unipar\exemplo\rest\aluno\providers\SQLExceptionProvider.class
+projeto\unipar\exemplo\rest\aluno\providers\ValidacaoExceptionProvider.class
+projeto\unipar\exemplo\rest\aluno\controller\AlunoController.class
+projeto\unipar\exemplo\rest\aluno\infrastructure\ConnectionFactory.class
+projeto\unipar\exemplo\rest\aluno\model\Aluno.class
+projeto\unipar\exemplo\rest\aluno\repository\AlunoRepository.class
+projeto\unipar\exemplo\rest\aluno\service\AlunoService.class
+projeto\unipar\exemplo\rest\aluno\exception\ExceptionResponse.class
+projeto\unipar\exemplo\rest\aluno\providers\ExceptionProvider.class
